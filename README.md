@@ -1,7 +1,7 @@
-# Titanic-Dataset
+# Titanic Dataset - Exploratory Data Analysis
 Exploratory data analysis and data cleaning on the Titanic dataset using pandas and seaborn.
 
-# Titanic Dataset - Exploratory Data Analysis
+Overview
 
 Data cleaning, preprocessing, and exploratory data analysis (EDA) on the classic Titanic survival dataset, built in a Jupyter/Colab notebook using `pandas` and `seaborn`.
 
